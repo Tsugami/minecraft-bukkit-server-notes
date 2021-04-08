@@ -7,7 +7,7 @@
 the procedures I did to configure the server:
 
 - install the Java
-- Download the craftbukkit on `https://getbukkit.org/download/craftbukkit`
+- Download the craftbukkit on https://getbukkit.org/download/craftbukkit
 - Copy `run.bat` to your folder
 - Check if the `run.bat` has the correct `craftbukkit` file name 
 - in `eula.txt` change `eula` to `true`
